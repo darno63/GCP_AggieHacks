@@ -12,4 +12,6 @@ Our code is provided in the `preprocessing.ipyb` file.
 
 ## Exploratory Data Analysis
 
-Next did a deep dive into the data in order to find trends among subsets. In the file `EDA.ipynb` we documented our code as we analyzed various demographic groupings to see how they relate to opinions about the COVID-19 vaccine.
+Next did a deep dive into the data in order to find trends among subsets. In the file `EDA.ipynb` we documented our code as we analyzed various demographic groupings to see how they relate to opinions about the COVID-19 vaccine. 
+
+In order to run the file please unzip `finaldata3.zip` to the same folder
