@@ -14,7 +14,7 @@ Our code is provided in the `preprocessing.ipyb` file.
 
 Next did a deep dive into the data in order to find trends among subsets. In the file `EDA.ipynb` we documented our code as we analyzed various demographic groupings to see how they relate to opinions about the COVID-19 vaccine. 
 
-In order to run the file please unzip `finaldata3.zip` to the same folder
+In order to run the file please unzip `finaldata3.zip` to the data folder
 
 ## Conclusion
 Though vaccine sentiment has been improving over time, we note that there are prevailing differences between different subgroups. We list the reasons for these differences, and recommend policy outreach to ensure that vaccine sentiment is improving across all measured groups. COVID-19 response is a global, collaborative effort, and requires that all subgroups are on board.
